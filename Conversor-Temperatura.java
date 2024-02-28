@@ -13,7 +13,7 @@ class HelloWorld {
     celsius = scanner.nextInt();
     
     
-    double fahrenhait = (celsius * 9/5) + 32;
+    fahrenhait = (celsius * 9/5) + 32;
     
     System.out.println("Temperatura em Fahrenheit:" + fahrenhait);
     
