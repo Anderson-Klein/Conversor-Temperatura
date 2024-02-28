@@ -5,7 +5,9 @@ class HelloWorld {
     
     Scanner scanner = new Scanner(System.in);
     
-    int celsius = 0;
+    double celsius = 0.0;
+    double fahrenhait = 0.0;    
+        
     
     System.out.println("Informe a temperatura em Celsius:");
     celsius = scanner.nextInt();
